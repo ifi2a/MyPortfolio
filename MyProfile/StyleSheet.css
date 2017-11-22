@@ -1,0 +1,73 @@
+﻿#twittericon{
+  color(0, 172, 237);
+}
+body{
+  font-size: lobster;
+  margin-top: 60px;
+  background-color: white;
+  
+}
+.block{
+  background-color:black;
+  opacity: .7;
+  padding: 10px;
+  display: block;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+  margin-top: -100px;
+}
+.nav-pills {
+  font-family:Lobster;
+  font-size: 1.7em; 
+  background-color: purple;  
+  margin-bottom: 10%;
+  
+}
+h1{
+  padding: 0; 
+  margin-top:0px;
+  font-size: 3.0em;
+  padding-top: 0%;
+}
+.btn-default{
+  backgrond-color: black;
+  border-color: black;
+  color: #337ab7;
+  font-size: 1.7em;
+}
+
+.pageOne{
+  background: url("https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?ixlib=rb-0.3.5&q=80&fm=jpg&s=ea7623efb15115a216e43138cf1f524");
+  background-size: cover;
+  height: 210px;
+  color:white;
+  font-family: lobster;
+  padding-bottom: 10%;
+}
+.pageTwo{
+  background: url("https://images.unsplash.com/uploads/14116941824817ba1f28e/78c8dff1?ixlib=rb-0.3.5&q=80&fm=jpg&s=1c0460c049c18ea66de441e47a4c64b4");
+  background-size: cover; 
+  height: 1200px;
+  color:white;
+}
+
+.pagethree {
+  background: url ("https://images.unsplash.com/photo-1445905595283-21f8ae8a33d2?ixlib=rb-0.3.58q=80&fm=jpg&s=8c9caae13ddb19a46c84c04be34683c1");
+  height: 1200px; 
+  padding-top: 5%;  
+}
+
+p{
+  font-size:1.2em;
+  padding-top: 5%;
+}
+img{
+  height: 450px;
+  width: 450px;
+  padding-top: 5px;
+  margin-top: auto;
+  margi-left: auto;
+  margin-right:auto;
+}
